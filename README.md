@@ -63,27 +63,26 @@ I thrive on transforming ideas into impactful realities and exploring emerging t
 
 ## 🌐 Connect with Me
 
-<div align="center">
-  <div style="display: flex; justify-content: space-around; align-items: center; width: 90%; max-width: 900px;">
-    <a href="https://github.com/Aniruddha521" target="_blank">
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width:60px; height:60px; border-radius:50%; object-fit:cover;"/>
-    </a>
-    <a href="https://www.linkedin.com/in/aniruddha-roy-b3b233261/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width:60px; height:60px; border-radius:50%; object-fit:cover;"/>
-    </a>
-    <a href="https://medium.com/@aniruddharoy535" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" style="width:60px; height:60px; border-radius:50%; object-fit:cover;"/>
-    </a>
-    <a href="https://codeforces.com/profile/__Roy__521" target="_blank">
-      <img src="https://sta.codeforces.com/s/61765/images/codeforces-logo-with-telegram.png" alt="Codeforces" style="width:60px; height:60px; border-radius:50%; object-fit:cover;"/>
-    </a>
-    <a href="https://www.kaggle.com/Aniruddha521" target="_blank">
-      <img src="./assets/kaggle.png" alt="Kaggle" style="width:60px; height:60px; border-radius:50%; object-fit:cover;"/>
-    </a>
-    <a href="https://leetcode.com/u/aniruddharoy521/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" style="width:60px; height:60px; border-radius:50%; object-fit:cover;"/>
-    </a>
-  </div>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 24px; justify-content: center; align-items: center;">
+  <!-- Replace links and images with your own -->
+  <a href="https://github.com/Aniruddha521" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="48" style="border-radius: 50%; object-fit: cover;" />
+  </a>
+  <a href="https://www.linkedin.com/in/aniruddha-roy-b3b233261/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="48" style="border-radius: 50%; object-fit: cover;" />
+  </a>
+  <a href="https://medium.com/@aniruddharoy535" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" width="48" style="border-radius: 50%; object-fit: cover;" />
+  </a>
+  <a href="https://codeforces.com/profile/__Roy__521" target="_blank">
+    <img src="https://sta.codeforces.com/s/61765/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="48" style="border-radius: 50%; object-fit: cover;" />
+  </a>
+  <a href="https://www.kaggle.com/Aniruddha521" target="_blank">
+    <img src="./assets/kaggle.png" alt="Kaggle" width="48" style="border-radius: 50%; object-fit: cover;" />
+  </a>
+  <a href="https://leetcode.com/u/aniruddharoy521/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="48" style="border-radius: 50%; object-fit: cover;" />
+  </a>
 </div>
 
 ---
