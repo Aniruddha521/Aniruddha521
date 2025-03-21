@@ -1,10 +1,11 @@
 # Hi there 👋, I'm Aniruddha Roy!
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+I'm passionate about **crafting intelligent** solutions in **Machine Learning**, **Reinforcement Learning**, and **Computer Vision**.
 
-I'm passionate about crafting intelligent solutions in **Machine Learning**, **Reinforcement Learning**, and **Computer Vision**.
 Every line of code is a step toward redefining the future of innovation.
+
 I thrive on transforming ideas into impactful realities and exploring emerging tech trends.
+
 ---
 
 ## 💻 Tech Stack
