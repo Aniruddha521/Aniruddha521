@@ -61,27 +61,53 @@ I thrive on transforming ideas into impactful realities and exploring emerging t
 
 ---
 
-## 🌐 Connect with Me
+## 🎯 Let's Connect, Code & Solve Challenges
 
-<div align="center">
+<div align="center" 
+     style="display: flex; flex-wrap: nowrap; gap: 35px; justify-content: center; align-items: center; padding: 35px;">
+
   <a href="https://github.com/Aniruddha521" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="vertical-align: middle; width:40px; margin: 0 8px;" />
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
+      alt="GitHub" 
+      style="width: 70px; height: 70px; border-radius: 50%; object-fit: cover;" 
+    />
   </a>
+
   <a href="https://www.linkedin.com/in/aniruddha-roy-b3b233261/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="vertical-align: middle; width:40px; margin: 0 8px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" 
+      alt="LinkedIn" 
+      style="width: 70px; height: 70px; border-radius: 50%; object-fit: cover;" 
+    />
   </a>
+
   <a href="https://medium.com/@aniruddharoy535" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" style="vertical-align: middle; width:48px; margin: 0 8px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" 
+      alt="Medium" 
+      style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;" 
+    />
   </a>
+
   <a href="https://codeforces.com/profile/__Roy__521" target="_blank">
-    <img src="https://sta.codeforces.com/s/61765/images/codeforces-logo-with-telegram.png" alt="Codeforces" style="vertical-align: middle; width:48px; margin: 0 8px;" />
+    <img src="https://sta.codeforces.com/s/61765/images/codeforces-logo-with-telegram.png" 
+      alt="Codeforces" 
+      style="width: 220px; height: 70px; border-radius: 15px; object-fit: contain;" 
+    />
   </a>
+
   <a href="https://www.kaggle.com/Aniruddha521" target="_blank">
-    <img src="./assets/kaggle.png" alt="Kaggle" style="vertical-align: middle; width:48px; margin: 0 8px;" />
+    <img src="./assets/kaggle.png" 
+      alt="Kaggle" 
+      style="width: 110px; height: 70px; border-radius: 50%; object-fit: cover;" 
+    />
   </a>
+
   <a href="https://leetcode.com/u/aniruddharoy521/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" style="vertical-align: middle; width:40px; margin: 0 8px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" 
+      alt="LeetCode" 
+      style="width: 70px; height: 70px; border-radius: 50%; object-fit: cover;"  
+    />
   </a>
+
 </div>
 
 ---
