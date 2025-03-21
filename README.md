@@ -73,20 +73,11 @@ I'm a tech enthusiast, AI/ML explorer, and a B.Tech student at NIT Durgapur. I l
   <a href="https://codeforces.com/profile/__Roy__521" target="_blank">
     <img src="https://sta.codeforces.com/s/61765/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="40" height="40"/>
   </a>
+  <!-- Kaggle using your custom image -->
   <a href="https://www.kaggle.com/Aniruddha521" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Kaggle_logo.png" alt="Kaggle" width="40" height="40"/>
+    <img src="./assets/kaggle.png" alt="Kaggle" width="40" height="40"/>
   </a>
 </div>
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniruddha521&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aniruddha521&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddha521&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
 
 ---
 
