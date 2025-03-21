@@ -16,8 +16,6 @@ I thrive on transforming ideas into impactful realities and exploring emerging t
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/OOPs-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white" alt="OOPs"/>
-  <img src="https://img.shields.io/badge/DSA-FF5733?style=for-the-badge" alt="DSA"/>
-  <img src="https://img.shields.io/badge/DBMS-003399?style=for-the-badge" alt="DBMS"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Reinforcement_Learning-9B59B6?style=for-the-badge" alt="Reinforcement Learning"/>
@@ -25,16 +23,19 @@ I thrive on transforming ideas into impactful realities and exploring emerging t
 
   <!-- AI/ML Tools & Frameworks -->
   <img src="https://img.shields.io/badge/TensorFlow-F0992A?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/Neural_Networks-007ACC?style=for-the-badge&logo=ai&logoColor=white" alt="Neural Networks"/>
   <img src="https://img.shields.io/badge/TorchVision-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="TorchVision"/>
-  <img src="https://img.shields.io/badge/SAM-4285F4?style=for-the-badge&logo=&logoColor=white" alt="SAM"/>
-  <img src="https://img.shields.io/badge/YOLO-E44D26?style=for-the-badge&logo=&logoColor=white" alt="YOLO"/>
-  <img src="https://img.shields.io/badge/Torch_Summary-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Torch Summary"/>
+  <img src="https://img.shields.io/badge/Anything_Model_by_Meta-4285F4?style=for-the-badge&logo=meta&logoColor=white" alt="Segment Anything Model"/>
+   <img src="https://img.shields.io/badge/Ultralytics-000000?style=for-the-badge&logo=ultralytics&logoColor=white" alt="Ultralytics"/>
+  <img src="https://img.shields.io/badge/Torch_Summary-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Torchsummary"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/CuPy-FF69B4?style=for-the-badge&logo=python&logoColor=white" alt="CuPy"/>
+  <img src="https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Conda"/>
   <img src="https://img.shields.io/badge/Octave-FC4C02?style=for-the-badge&logo=gnu-octave&logoColor=white" alt="Octave"/>
   <img src="https://img.shields.io/badge/Large%20Language%20Models-FF6600?style=for-the-badge" alt="Large Language Models"/>
   <img src="https://img.shields.io/badge/NLP-9C27B0?style=for-the-badge" alt="NLP"/>
@@ -58,6 +59,7 @@ I thrive on transforming ideas into impactful realities and exploring emerging t
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
   <img src="https://img.shields.io/badge/CI%2FCD-8BA870?style=for-the-badge&logo=jenkins&logoColor=white" alt="CI/CD"/>
 </div>
+
 
 ---
 
