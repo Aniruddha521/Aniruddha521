@@ -9,9 +9,7 @@ I thrive on transforming ideas into impactful realities and exploring emerging t
 ---
 
 ## 💻 Tech Stack
-![Torchvision](https://img.shields.io/badge/Torchvision-EE4C2C?logo=pytorch&logoColor=white)
-![Torch Summary](https://img.shields.io/badge/Torch--Summary-EE4C2C?logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FF6C37?logo=huggingface&logoColor=white)
+
 <div align="center">
   <!-- Programming Languages & Fundamentals -->
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
