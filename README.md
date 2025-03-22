@@ -29,7 +29,7 @@ I thrive on transforming ideas into impactful realities and exploring emerging t
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/Neural_Networks-007ACC?style=for-the-badge&logo=ai&logoColor=white" alt="Neural Networks"/>
   <img src="https://img.shields.io/badge/TorchVision-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="TorchVision"/>
-  <img src="https://img.shields.io/badge/Anything_Model_by_Meta-4285F4?style=for-the-badge&logo=meta&logoColor=white" alt="Segment Anything Model"/>
+  <img src="https://img.shields.io/badge/Segment_Anything_Model-4285F4?style=for-the-badge&logo=meta&logoColor=white" alt="Segment Anything Model"/>
    <img src="https://img.shields.io/badge/Ultralytics-000000?style=for-the-badge&logo=ultralytics&logoColor=white" alt="Ultralytics"/>
   <img src="https://img.shields.io/badge/Torch_Summary-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Torchsummary"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
