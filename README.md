@@ -9,7 +9,9 @@ I thrive on transforming ideas into impactful realities and exploring emerging t
 ---
 
 ## 💻 Tech Stack
-
+![Torchvision](https://img.shields.io/badge/Torchvision-EE4C2C?logo=pytorch&logoColor=white)
+![Torch Summary](https://img.shields.io/badge/Torch--Summary-EE4C2C?logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FF6C37?logo=huggingface&logoColor=white)
 <div align="center">
   <!-- Programming Languages & Fundamentals -->
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
@@ -20,31 +22,30 @@ I thrive on transforming ideas into impactful realities and exploring emerging t
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Reinforcement_Learning-9B59B6?style=for-the-badge" alt="Reinforcement Learning"/>
   <img src="https://img.shields.io/badge/Groq-1C1C1C?style=for-the-badge" alt="Groq"/>
-
-  <!-- AI/ML Tools & Frameworks -->
   <img src="https://img.shields.io/badge/TensorFlow-F0992A?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Neural_Networks-007ACC?style=for-the-badge&logo=ai&logoColor=white" alt="Neural Networks"/>
+  <img src="https://img.shields.io/badge/Neural_Networks-007ACC?style=for-the-badge&logo=brain&logoColor=white" alt="Neural Networks"/>
   <img src="https://img.shields.io/badge/TorchVision-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="TorchVision"/>
   <img src="https://img.shields.io/badge/Segment_Anything_Model-4285F4?style=for-the-badge&logo=meta&logoColor=white" alt="Segment Anything Model"/>
-   <img src="https://img.shields.io/badge/Ultralytics-000000?style=for-the-badge&logo=ultralytics&logoColor=white" alt="Ultralytics"/>
-  <img src="https://img.shields.io/badge/Torch_Summary-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Torchsummary"/>
+  <img src="https://img.shields.io/badge/Ultralytics-000000?style=for-the-badge&logo=ultralytics&logoColor=white" alt="Ultralytics"/>
+  <img src="https://img.shields.io/badge/TorchSummary-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Torchsummary"/>
+  <img src="https://img.shields.io/badge/Transformers-FF6C37?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/CuPy-FF69B4?style=for-the-badge&logo=python&logoColor=white" alt="CuPy"/>
+  <img src="https://img.shields.io/badge/CuPy-FF69B4?style=for-the-badge&logo=numpy&logoColor=white" alt="CuPy"/>
   <img src="https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Conda"/>
-  <img src="https://img.shields.io/badge/Octave-FC4C02?style=for-the-badge&logo=gnu-octave&logoColor=white" alt="Octave"/>
+  <img src="https://img.shields.io/badge/Octave-EE4C2C?style=for-the-badge&logo=octave&logoColor=blue" alt="Octave"/>
   <img src="https://img.shields.io/badge/Large%20Language%20Models-FF6600?style=for-the-badge" alt="Large Language Models"/>
   <img src="https://img.shields.io/badge/NLP-9C27B0?style=for-the-badge" alt="NLP"/>
   
   <!-- AI/ML Frameworks & Community Tools -->
   <img src="https://img.shields.io/badge/LangChain-FFB400?style=for-the-badge&logo=langchain&logoColor=black" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LangGraph-007ACC?style=for-the-badge&logo=&logoColor=white" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/LangSmith-2496ED?style=for-the-badge&logo=&logoColor=white" alt="LangSmith"/>
-  <img src="https://img.shields.io/badge/CrewAI-00AEEF?style=for-the-badge&logo=&logoColor=white" alt="CrewAI"/>
+  <img src="https://img.shields.io/badge/LangGraph-007ACC?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/LangSmith-2496ED?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith"/>
+  <img src="https://img.shields.io/badge/CrewAI-00AEEF?style=for-the-badge&logo=CrewAI&logoColor=white" alt="CrewAI"/>
 
   <!-- Cloud & Platforms -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
