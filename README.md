@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/aniruddha-roy-b3b233261/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="aniruddharoy521@gmail.com">
+  <a href="mailto:aniruddharoy521@gmail.com">
     <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/><br>
   </a>
 </div>
