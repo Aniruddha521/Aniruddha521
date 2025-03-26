@@ -1,10 +1,28 @@
-# Hi there 👋, I'm Aniruddha Roy!
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Aniruddha521.Aniruddha521&left_color=blue&right_color=red&left_text=Visitors" />
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=ADD8E6&lines=Hi+There!+👋;+I'm+Aniruddha+Roy!;" />
+  
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/aniruddha-roy-b3b233261/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="aniruddharoy521@gmail.com">
+    <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/><br>
+  </a>
+</div>
+
+</h1>
 
 I'm passionate about **crafting intelligent** solutions in **Machine Learning**, **Reinforcement Learning**, and **Computer Vision**.
 
 Every line of code is a step toward redefining the future of innovation.
 
 I thrive on transforming ideas into impactful realities and exploring emerging tech trends.
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 ---
 
